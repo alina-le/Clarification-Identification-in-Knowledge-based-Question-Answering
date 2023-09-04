@@ -1,4 +1,4 @@
-# packages in environment at /local/alinal/anaconda3/envs/torch_huggingface:
+# packages in environment 
 #
 # Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                        main  
