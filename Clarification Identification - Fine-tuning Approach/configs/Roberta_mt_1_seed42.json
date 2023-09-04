@@ -1,0 +1,25 @@
+{
+"exp_name": "",
+
+"corpus_split": "multi-turn",
+"model_version": "TransformerClassifier0",
+"transformer_version": "Roberta",
+
+"learning_rate": 2e-5,
+"batch_size": 16,
+"num_epochs": 10,
+
+"seed":42,
+
+"model0_dropout":0.3,
+
+"class_weight":false,
+
+"con_sep": "",
+"ent_sep": "",
+"turn_sep": "",
+
+"num_max_toks": "",
+
+"freeze_transformer": ""
+}
